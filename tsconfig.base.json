@@ -16,7 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@library/ngx-ds": ["libs/ngx-ds/src/index.ts"],
-      "@ngx-ds": ["libs/ngx-ds/src/index.ts"]
+      "ngx-ds": ["libs/ngx-ds/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
